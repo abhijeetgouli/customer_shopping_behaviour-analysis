@@ -1,10 +1,8 @@
 # customer_shopping_behaviour-analysis
 Data Analytics project showcasing customer shopping behaviour using Python, SQL, Power BI
-📁 Dataset
+Type: Business data
 
-Type: Structured customer / business data
-
-Format: CSV / Excel
+Format: CSV 
 
 Usage:
 
