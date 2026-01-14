@@ -1,23 +1,22 @@
 # customer_shopping_behaviour-analysis
 Data Analytics project showcasing customer shopping behaviour using Python, SQL, Power BI
+📁 Dataset
 
-🚀 Overview
+Type: Structured customer / business data
 
-This project showcases a complete data analytics pipeline, from raw data ingestion to business-ready insights and dashboards. It highlights hands-on experience with Python, SQL, and Power BI, focusing on real-world analytical workflows used by data analysts.
+Format: CSV / Excel
 
-The goal of this project is to clean, analyze, and visualize data to support data-driven decision making.
+Usage:
 
-🧠 Skills Demonstrated
+Loaded and analyzed in Python
 
-Data Cleaning & Transformation
+Stored and queried in SQL databases
 
-Exploratory Data Analysis (EDA)
+Visualized in Power BI
 
-SQL Querying & Data Modeling
+Summarized in a report and presentation
 
-Dashboard Design & Storytelling
-
-Business-oriented Insights
+(Dataset details can be updated based on the actual use case)
 
 🛠️ Tools & Technologies
 
@@ -25,86 +24,98 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 
 Databases: PostgreSQL | MySQL | SQL Server
 
-SQL: Joins, CTEs, Aggregations, Window Functions
+SQL: Joins, Aggregations, CTEs, Comparisons
 
-BI Tool: Power BI
+BI Tool: Power BI (DAX, interactive visuals)
 
-Environment: Jupyter Notebook
+Reporting: Markdown / PDF Report
 
-📂 Project Structure
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   ├── 01_data_loading.ipynb
-│   ├── 02_eda.ipynb
-│   └── 03_data_cleaning.ipynb
-├── sql/
-│   └── analysis_queries.sql
-├── power_bi/
-│   └── dashboard.pbix
-└── README.md
+Presentation: Gamma (PPT structure & storytelling)
 
-🔍 Project Workflow
-1️⃣ Data Loading
+🔄 Project Workflow
+1️⃣ Data Loading (Python)
 
-Loaded raw CSV/Excel data using Pandas
+Imported raw data using Pandas
 
-Checked schema, data types, and data quality
+Validated schema, data types, and basic structure
 
 2️⃣ Exploratory Data Analysis (EDA)
 
-Identified trends, patterns, and anomalies
+Analyzed distributions, trends, and relationships
 
-Visualized distributions and correlations
+Identified missing values and outliers
 
-Highlighted data quality issues
+Generated visual insights to understand data behavior
 
-3️⃣ Data Cleaning & Feature Engineering
+3️⃣ Data Cleaning & Preparation
 
-Handled missing values and duplicates
+Handled missing and inconsistent values
+
+Removed duplicates
 
 Standardized formats and column names
 
-Created derived metrics for analysis
+Created derived fields for analysis
 
-4️⃣ SQL Analysis
+4️⃣ SQL Analysis (PostgreSQL / MySQL / SQL Server)
 
-Imported cleaned data into PostgreSQL / MySQL / SQL Server
+Imported cleaned data into relational databases
 
-Designed tables for analysis
+Designed tables for analytical queries
 
-Answered business questions using SQL:
+Performed:
 
-KPI calculations
+Segmentation analysis
 
-Trend analysis
+Comparisons across categories/segments
 
-Segmentation and comparisons
+Aggregations and trend analysis
 
 5️⃣ Power BI Dashboard
 
 Connected Power BI to SQL database
 
-Built interactive visuals including:
+Built interactive dashboards with:
 
-KPIs & summary metrics
+KPI cards
 
-Trend and comparison charts
+Segment-wise comparisons
 
-Dynamic filters and slicers
+Trend visualizations
 
-📈 Key Insights (Example)
+Created calculated measures using DAX
 
-Identified top-performing categories/segments
+Added filters and slicers for dynamic analysis
 
-Discovered trends over time impacting performance
+6️⃣ Reporting & Presentation
 
-Highlighted areas for operational improvement
+Created a project report summarizing:
 
-(Insights can be customized based on dataset)
+Methodology
 
-▶️ How to Run
+Key findings
+
+Business insights
+
+Designed a Gamma-based PPT to:
+
+Present insights clearly
+
+Support stakeholder communication
+
+Tell a data-driven story
+
+📈 Key Outcomes
+
+Clean and analysis-ready dataset
+
+SQL-driven insights across segments
+
+Interactive Power BI dashboard for decision-making
+
+Clear report and presentation for stakeholders
+
+▶️ How to Run the Project
 Prerequisites
 
 Python 3.x
@@ -119,26 +130,30 @@ cd <project-folder>
 pip install pandas numpy matplotlib seaborn
 
 
-Run Jupyter notebooks in order (notebooks/)
+Run Python notebooks for data loading, EDA, and cleaning
 
-Load cleaned data into the database
+Load cleaned data into the SQL database
 
-Execute SQL queries from sql/analysis_queries.sql
+Execute SQL queries for analysis
 
-Open dashboard.pbix in Power BI and refresh data
+Open the Power BI .pbix file and refresh data
 
-📌 Why This Project Matters
+Review the report and Gamma presentation
 
-This project demonstrates the ability to:
+🎯 Why This Project Matters
 
-Work across the entire analytics lifecycle
+This project demonstrates:
 
-Translate raw data into clear business insights
+End-to-end analytics thinking
 
-Use industry-standard tools used by analytics teams
+Strong Python and SQL fundamentals
+
+Dashboard design and storytelling skills
+
+Ability to communicate insights through reports and presentations
 
 👤 Author
 
 Abhijeeth
 Aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/abhijeet-gouli-4a81053a5)
+🔗 https://www.linkedin.com/in/abhijeet-gouli-4a81053a5
