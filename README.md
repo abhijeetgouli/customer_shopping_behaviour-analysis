@@ -141,4 +141,4 @@ Use industry-standard tools used by analytics teams
 
 Abhijeeth
 Aspiring Data Analyst
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/abhijeet-gouli-4a81053a5)
